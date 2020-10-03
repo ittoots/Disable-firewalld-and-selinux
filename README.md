@@ -2,10 +2,13 @@
 
 # Disable SeLinux
 #check status of SELinux
+
 sestatus
 
 #Open selinux file and set SELINUX to disabled
+
 vi /etc/sysconfig/selinux
+
 SELINUX=disabled
 
 #Confirm status of SELinux
