@@ -8,6 +8,9 @@ sestatus
 vi /etc/sysconfig/selinux
 SELINUX=disabled
 
+#Reboot the server to apply change
+reboot
+
 #Confirm status of SELinux
 sestatus
 
