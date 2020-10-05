@@ -1,4 +1,4 @@
-# Disable-firewalld-and-selinux
+# Centos-8-Disable-firewalld-and-selinux
 
 # Disable SeLinux
 #check status of SELinux
